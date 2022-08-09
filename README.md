@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Arseniy-Zagadskii
-- 👀 I’m interested in mathmetics, competitive programming, quantum tech & more!
+- 👋 Hi, I’m @Arseniy-Zagadskii, 13 y.o.!
+
+- 👀 I’m interested in mathemetics, competitive programming, quantum tech & more!
 - 🌱 I’m currently learning cords method in mathematics & z-functions in programming.
 - 📫 How to reach me: arseniyzagadski@gmail.com; @zagadskii in Telegram.
 
